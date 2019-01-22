@@ -14,6 +14,6 @@ Modules used:
 - scipy
 
 # Results
-[[https://github.com/aski97/Image-preprocessing/blob/master/results/prewitt.jpg|alt=octocat]]
-[[https://github.com/aski97/Image-preprocessing/blob/master/results/roberts.jpg|alt=octocat]]        
+![alt text](https://github.com/aski97/image-preprocessing/blob/master/results/prewitt.png)
+![alt text](https://github.com/aski97/Image-preprocessing/blob/master/results/roberts.png)    
       
