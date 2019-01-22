@@ -12,3 +12,8 @@ Modules used:
 - openCV
 - numpy
 - scipy
+
+# Results
+[[https://github.com/aski97/Image-preprocessing/blob/master/results/prewitt.jpg|alt=octocat]]
+[[https://github.com/aski97/Image-preprocessing/blob/master/results/roberts.jpg|alt=octocat]]        
+      
